@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Salve salve, eu sou o Caio Novelletto e este é meu repositório.
+## Oi, eu sou o Caio e este é meu repositório corporativo!
 <div align="center">
   
     
