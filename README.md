@@ -28,4 +28,5 @@ Here are some ideas to get you started:
   
 <div align="center">
  <a href="mailto:caio.novelletto@vhlsistemas.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
+ <a href="mailto:caio.novelletto@vhlsistemas.com.br" target="_blank"><img src="https://img.shields.io/badge/-Linux-grey?logo=linux target="_blank"></a>
 </div>
