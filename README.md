@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=CaioNovellettto&label=Repository%20views&color=8fce00&style=flat" alt="CaioNovellettto" /> </p>
 
 </div>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username={CaioNovellettto}&theme=blue-green" alt="CaioNovellettto" /> </p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username={CaioNovelletto}&theme=blue-green" alt="CaioNovellettto" /> </p>
   
 <div align="center">
  <a href="mailto:caio.novelletto@vhlsistemas.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
