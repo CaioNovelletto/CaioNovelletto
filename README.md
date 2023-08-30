@@ -14,15 +14,11 @@ Here are some ideas to get you started:
 -->
 ## Oi, eu sou o Caio e este é meu repositório corporativo!
 <div align="center">
-  
-    
+   
   ##
-<!--    
-   ![Alt Text](https://user-images.githubusercontent.com/15057595/214445769-f3246d3d-8492-4cb6-87fa-d3b262246c16.gif)
-    
-    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kionovelletto&layout=compact&langs_count=16&theme=tokyonight)  
--->    
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioNovelletto&layout=compact&langs_count=16&theme=tokyonight)  
+
 </div>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=CaioNovellettto&label=Repository%20views&color=8fce00&style=flat" alt="CaioNovellettto" /> </p>
 
