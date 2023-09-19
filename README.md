@@ -30,6 +30,6 @@ Here are some ideas to get you started:
  <a href="mailto:caio.novelletto@vhlsistemas.com.br" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white target="_blank"></a>  
 </div>
 
-<a href="https://github.com/CaioNovelletto" align="left">
+<a href="https://github.com/CaioNovelletto" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CaioNovelletto&theme=tokyonight&column=8&margin-h=15" />
 </a>
