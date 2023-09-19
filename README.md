@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioNovelletto&layout=compact&langs_count=16&theme=tokyonight)  
 
 </div>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CaioNovelletto&theme=blue-green" alt="CaioNovellettto" /> </p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CaioNovelletto&theme=tokyonight" alt="CaioNovellettto" /> </p>
   
 <div align="center">
  <a href="mailto:caio.novelletto@vhlsistemas.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
